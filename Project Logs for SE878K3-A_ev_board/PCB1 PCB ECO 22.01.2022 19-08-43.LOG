@@ -1,0 +1,192 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Ceramic_1210 New DesignItemId=Ceramic_0603
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Ceramic_1210 New DesignItemId=Ceramic_0603
+Change Component DesignItemId : Designator=C3 Old DesignItemId=Ceramic_1210 New DesignItemId=Ceramic_0603
+Change Component DesignItemId : Designator=C4 Old DesignItemId=Ceramic_1210 New DesignItemId=Ceramic_0603
+Change Component DesignItemId : Designator=C5 Old DesignItemId=Ceramic_1210 New DesignItemId=Ceramic_0603
+Change Component DesignItemId : Designator=C6 Old DesignItemId=Ceramic_1210 New DesignItemId=Ceramic_0603
+Change Component DesignItemId : Designator=C7 Old DesignItemId=Ceramic_1210 New DesignItemId=Ceramic_0603
+Change Component DesignItemId : Designator=C8 Old DesignItemId=Ceramic_1210 New DesignItemId=Ceramic_0603
+Change Component DesignItemId : Designator=C9 Old DesignItemId=Ceramic_1210 New DesignItemId=Ceramic_0603
+Change Component DesignItemId : Designator=C10 Old DesignItemId=Ceramic_1210 New DesignItemId=Ceramic_0603
+Change Component DesignItemId : Designator=C11 Old DesignItemId=Ceramic_1210 New DesignItemId=Ceramic_0603
+Change Component DesignItemId : Designator=C12 Old DesignItemId=Ceramic_1210 New DesignItemId=Ceramic_0603
+Change Component Footprint: Designator=C1 Old Footprint=CAP: 1210 New Footprint=CAP: 0603
+Change Component Footprint: Designator=C2 Old Footprint=CAP: 1210 New Footprint=CAP: 0603
+Change Component Footprint: Designator=C3 Old Footprint=CAP: 1210 New Footprint=CAP: 0603
+Change Component Footprint: Designator=C4 Old Footprint=CAP: 1210 New Footprint=CAP: 0603
+Change Component Footprint: Designator=C5 Old Footprint=CAP: 1210 New Footprint=CAP: 0603
+Change Component Footprint: Designator=C6 Old Footprint=CAP: 1210 New Footprint=CAP: 0603
+Change Component Footprint: Designator=C7 Old Footprint=CAP: 1210 New Footprint=CAP: 0603
+Change Component Footprint: Designator=C8 Old Footprint=CAP: 1210 New Footprint=CAP: 0603
+Change Component Footprint: Designator=C9 Old Footprint=CAP: 1210 New Footprint=CAP: 0603
+Change Component Footprint: Designator=C10 Old Footprint=CAP: 1210 New Footprint=CAP: 0603
+Change Component Footprint: Designator=C11 Old Footprint=CAP: 1210 New Footprint=CAP: 0603
+Change Component Footprint: Designator=C12 Old Footprint=CAP: 1210 New Footprint=CAP: 0603
+Change Component Comment : Designator=C1 Old Comment=Ceramic capacitor, 10?F, X7R, ±10%, 50V, 1210, -55...+125°C New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Change Component Comment : Designator=C2 Old Comment=Ceramic capacitor, 10?F, X7R, ±10%, 50V, 1210, -55...+125°C New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Change Component Comment : Designator=C3 Old Comment=Ceramic capacitor, 10?F, X7R, ±10%, 50V, 1210, -55...+125°C New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Change Component Comment : Designator=C4 Old Comment=Ceramic capacitor, 10?F, X7R, ±10%, 50V, 1210, -55...+125°C New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Change Component Comment : Designator=C5 Old Comment=Ceramic capacitor, 10?F, X7R, ±10%, 50V, 1210, -55...+125°C New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Change Component Comment : Designator=C6 Old Comment=Ceramic capacitor, 10?F, X7R, ±10%, 50V, 1210, -55...+125°C New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Change Component Comment : Designator=C7 Old Comment=Ceramic capacitor, 10?F, X7R, ±10%, 50V, 1210, -55...+125°C New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Change Component Comment : Designator=C8 Old Comment=Ceramic capacitor, 10?F, X7R, ±10%, 50V, 1210, -55...+125°C New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Change Component Comment : Designator=C9 Old Comment=Ceramic capacitor, 10?F, X7R, ±10%, 50V, 1210, -55...+125°C New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Change Component Comment : Designator=C10 Old Comment=Ceramic capacitor, 10?F, X7R, ±10%, 50V, 1210, -55...+125°C New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Change Component Comment : Designator=C11 Old Comment=Ceramic capacitor, 10?F, X7R, ±10%, 50V, 1210, -55...+125°C New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Change Component Comment : Designator=C12 Old Comment=Ceramic capacitor, 10?F, X7R, ±10%, 50V, 1210, -55...+125°C New Comment=Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Change component parameters: Designator = "C1"; Footprint = "CAP: 0603"; UniqueID = "\NOIPNPNB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0603KRX7R7BB104/311-1088-1-ND/302998"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "CAP: 0603"; UniqueID = "\YDLJILVP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0603KRX7R7BB104/311-1088-1-ND/302998"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "CAP: 0603"; UniqueID = "\LEUUIPHL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0603KRX7R7BB104/311-1088-1-ND/302998"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "CAP: 0603"; UniqueID = "\JUDRDACV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0603KRX7R7BB104/311-1088-1-ND/302998"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "CAP: 0603"; UniqueID = "\IBUCTXLR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0603KRX7R7BB104/311-1088-1-ND/302998"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "CAP: 0603"; UniqueID = "\EYMBOCVV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0603KRX7R7BB104/311-1088-1-ND/302998"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "CAP: 0603"; UniqueID = "\BWHNYKPC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0603KRX7R7BB104/311-1088-1-ND/302998"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "CAP: 0603"; UniqueID = "\LLJKOIPJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0603KRX7R7BB104/311-1088-1-ND/302998"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9"; Footprint = "CAP: 0603"; UniqueID = "\OPRKQHEG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0603KRX7R7BB104/311-1088-1-ND/302998"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10"; Footprint = "CAP: 0603"; UniqueID = "\DCULVREX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0603KRX7R7BB104/311-1088-1-ND/302998"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11"; Footprint = "CAP: 0603"; UniqueID = "\QFHNBXOR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0603KRX7R7BB104/311-1088-1-ND/302998"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12"; Footprint = "CAP: 0603"; UniqueID = "\OUOUACQI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0603KRX7R7BB104/311-1088-1-ND/302998"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"

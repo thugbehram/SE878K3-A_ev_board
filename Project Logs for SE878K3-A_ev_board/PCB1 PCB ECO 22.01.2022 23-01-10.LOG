@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=3_33V Pin=X5-4
+Added Pin To Net: NetName=3_VIN Pin=X5-4
+Added Pin To Net: NetName=3_TX Pin=D6-1
+Added Pin To Net: NetName=3_TX Pin=X5-2
+Added Net: Name=3_TX

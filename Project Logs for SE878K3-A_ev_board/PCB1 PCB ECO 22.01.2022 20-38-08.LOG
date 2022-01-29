@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=NetD5_5 Pin=TP8-1
+Removed Pin From Net: NetName=NetD6_5 Pin=TP9-1
+Removed Member From Class: ClassName=Sheet1 Member=TP8
+Removed Member From Class: ClassName=Sheet1 Member=TP9
+Added Component: Designator=R7(RES: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0603JR-07100RL/311-100GRCT-ND/729644"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1k, ±5%, 0603, 0.1W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0603JR-07100RL/311-100GRCT-ND/729644"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1k, ±5%, 0603, 0.1W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(LED: 0603G)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ColorParameter"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, Green, *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD2(LED: 0603G)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ColorParameter"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "LED, Green, *, *, *, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD5_5 Pin=R7-2
+Added Pin To Net: NetName=NetD6_5 Pin=R8-2
+Added Pin To Net: NetName=2_GND Pin=VD1-2
+Added Pin To Net: NetName=3_GND Pin=VD2-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=VD1-1
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=VD2-1
+Added Net: Name=NetR8_1
+Added Member To Class: ClassName=Sheet1 Member=Component R7 Resistor film, 1k, ±5%, 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=Sheet1 Member=Component R8 Resistor film, 1k, ±5%, 0603, 0.1W, -55...+125°C
+Added Member To Class: ClassName=Sheet1 Member=Component VD1 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=Sheet1 Member=Component VD2 LED, Green, *, *, *, -55...+150°C

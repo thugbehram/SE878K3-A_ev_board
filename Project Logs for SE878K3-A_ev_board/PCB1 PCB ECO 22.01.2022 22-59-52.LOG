@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=2_TX Pin=D6-1
+Removed Pin From Net: NetName=2_TX Pin=X5-2
+Change Component Footprint: Designator=X5 Old Footprint=CON: PLS-2 New Footprint=CON: PLS-6
+Added Pin To Net: NetName=3_GND Pin=X5-3
+Added Pin To Net: NetName=3_33V Pin=X5-4
+Added Pin To Net: NetName=R Pin=X5-5
+Added Pin To Net: NetName=DR Pin=X5-6

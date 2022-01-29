@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=3_RX Pin=D6-1
+Removed Pin From Net: NetName=3_VIN Pin=X6-1
+Removed Pin From Net: NetName=3_GND Pin=X6-2
+Removed Member From Class: ClassName=Sheet1 Member=TP3
+Removed Member From Class: ClassName=Sheet1 Member=TP6
+Removed Member From Class: ClassName=Sheet1 Member=X6
+Change Component Comment : Designator=X5 Old Comment=Connector, 2pin, 2.54mm, 500VAC, 3A New Comment=Connector, 6pin, 2.54mm, 500VAC, 3A
+Change component parameters: Designator = "X5"; Footprint = "CON: PLS-6"; UniqueID = "\VVHQWYBM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "6pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "PLS-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 6pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=2_TX Pin=D6-1
+Added Pin To Net: NetName=3_RX Pin=D6-32
+Added Pin To Net: NetName=2_TX Pin=X5-2
+Added Pin To Net: NetName=DR Pin=D6-20
+Added Net: Name=DR
+Added Pin To Net: NetName=R Pin=D6-27
+Added Net: Name=R
+Added Room: Name=Sheet1

@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\SE878K3-A_ev_board\PCB1.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_MultiLayerPad|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_Polygon|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
